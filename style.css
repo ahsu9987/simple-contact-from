@@ -1,0 +1,43 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #193C73;
+}
+h2{
+    font-family: calibri;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 50px;
+    text-transform: uppercase;
+    color: white;
+}
+form{
+    background-color: white;
+    width: 315px;
+    height: 500px;
+    padding: 25px;
+    margin-left: 590px;
+}
+input{
+    width: 300px;
+    margin-top: 5px;
+    border: groove;
+}
+label{
+    color: red;
+    font-family: calibri;
+    text-transform: uppercase;
+}
+button{
+    background-color:#0F764D;
+    color: white;
+    width: 310px;
+    padding: 3px;
+    border: none;
+}
+p{
+    color: white;
+    font-size: 15px;
+    font-family: calibri;
+    text-align: center;
+}
